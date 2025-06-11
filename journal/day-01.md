@@ -9,8 +9,8 @@
 - Wrote down the features I need to create in my next `Members-only` Project.
 
 ## 💡 What I Learned
-- I learned about setting up postgreSQL on windows.... trust me... it is a tedious process for a beginner.
+- I learned about setting up postgreSQL on windows.... trust me... it is a tedious process for a beginner (like me).
 - I completed the `Authentication Basics` lesson.
 
 ## 🔧 Next Up
-- I am on my way to plan my database strucutre and start planning the project
+- I am on my way to plan my database strucutre and start planning the project.
