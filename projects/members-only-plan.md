@@ -1,6 +1,6 @@
 # 🎯 _Feature List_
 
-- [ ] Users should be able to register and login.
+- [x] Users should be able to register and login.
  
 - [ ] A user should be able to create messages that have a **title, a time stamp and some text.**  
 - [ ] The database should be able to **keep track** of who created the message.  
