@@ -1,4 +1,4 @@
-# Day 01 - [11 July 2025]
+# Day 01 - [11 June 2025]
 
 ## ✅ What I Did
 - Setup this repo to track my dev journey ✅.
