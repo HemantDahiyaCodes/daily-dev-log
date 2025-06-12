@@ -1,4 +1,4 @@
-# Day 01 - [12 June 2025]
+# Day 02 - [12 June 2025]
 
 ## ✅ What I Did
 - Setup my database structure. Created tables for users information, messages, membership and admin.
