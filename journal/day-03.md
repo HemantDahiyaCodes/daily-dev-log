@@ -1,4 +1,4 @@
-# Day 01 - [13 June 2025]
+# Day 03 - [13 June 2025]
 
 ## ✅ What I Did
 - I styled my sign up and login forms.
