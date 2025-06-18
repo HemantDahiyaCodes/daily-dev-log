@@ -3,7 +3,7 @@
 - [x] Users should be able to register and login.
  
 - [x] A user should be able to create messages that have a **title, a time stamp and some text.**  
-- [ ] The database should be able to **keep track** of who created the message.  
+- [x] The database should be able to **keep track** of who created the message.  
 - [x] The sign up form should contain proper validation.  
 - [x] Users should be able to log in.  
 - [x] Give the users an option to join membership.  
