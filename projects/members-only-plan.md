@@ -9,8 +9,8 @@
 - [x] Give the users an option to join membership.  
 - [x] Allow **only** logged in users to create a new message.  
 - [ ] Display all messages from other club members on the homepage -- those who are members.  
-- [ ] Add an option to make a user admin.  
-- [ ] Admin should be able to delete a message from the database. 
+- [x] Add an option to make a user admin.  
+- [x] Admin should be able to delete a message from the database. 
 <hr>
 
 
